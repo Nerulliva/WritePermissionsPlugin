@@ -7,4 +7,8 @@ export class WritePermissionsWeb extends WebPlugin implements WritePermissionsPl
     console.log('ECHO', options);
     return options;
   }
+
+  async setWritePermissions(): Promise<{ value: boolean }>{
+    return Promise.resolve({value: false});
+  }
 }

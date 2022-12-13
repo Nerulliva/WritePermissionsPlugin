@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "write-premissions",
   "version": "0.0.1",
   "description": "Richiesta permessi di scrittura file android >= 11",
   "main": "dist/plugin.cjs.js",

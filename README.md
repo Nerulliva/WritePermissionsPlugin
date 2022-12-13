@@ -1,11 +1,11 @@
-# y
+# WritePermissions
 
 Richiesta permessi di scrittura file android >= 11
 
 ## Install
 
 ```bash
-npm install y
+npm install write-permissions
 npx cap sync
 ```
 
